@@ -56,7 +56,7 @@ This project is shared for educational and portfolio purposes. Please contact th
 ## 🙋‍♀️ Author
 
 **Zarin Shirinli**  
-[GitHub Profile](https://github.com/zerinsh) *(replace with actual URL)*
+[GitHub Profile](https://github.com/zerinsh)
 
 ---
 
