@@ -10,7 +10,7 @@ This Power BI project, **"Satış Büdcəsi"** (Sales Budget), is developed by *
 - **DAX (Data Analysis Expressions)**
 - **Power Query**
 - **Data Modeling**
-- **Excel / CSV (Data source, if applicable)**
+- **Excel / CSV**
 
 ---
 
